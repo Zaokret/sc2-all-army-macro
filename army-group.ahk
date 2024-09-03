@@ -33,16 +33,4 @@ armygroup() {
 
 +F2::armygroup                     
 
-WheelUp::
-{
-    Send "{Tab}"
-    Send "{WheelUp}"
-}
-
-WheelDown::
-{
-    Send "+{Tab}"
-    Send "{WheelDown}"
-}
-
 #HotIf                             
