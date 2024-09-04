@@ -30,6 +30,7 @@ armygroup() {
     ClickCenter()                       ; Deselects the centered unit 
     Send "5"                            ; Select Hotkey 5
     Send "!5"                           ; Steal Selected Units To Hotkey 5
+    Send "3"                            ; Select "all army" without stolen units
     Send "{``}"                         ; Jump to initial camera location
 }
 
