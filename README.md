@@ -6,6 +6,8 @@ make control group 3 alternative hotkey to be `F2`
 
 create hotkey for creating and jumping to camera location with backtick character
 
+set drag scroll speed to 1%
+
 ## setup during each game:
 
 add a structure to hotkey 0
